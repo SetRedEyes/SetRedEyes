@@ -28,7 +28,7 @@ Redux, Node JS Technologies.
 
 - :zap: I have experience in creating products from scratch, supporting and creating new features. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbjar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denis-saberov/overlay/contact-info/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Denis Saberov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denis-saberov/overlay/contact-info/)
 
 ---
 
