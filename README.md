@@ -56,5 +56,5 @@ Redux, Node JS Technologies.
 
 ### :writing_hand: My portfolio :
 <!-- BLOG-POST-LIST:START -->
-https://setredeyes.github.io/Denis-Saberov-Portfolio/
+https://setredeyes.github.io/Denis-Saberov-Portfolio
 <!-- BLOG-POST-LIST:END -->
