@@ -52,7 +52,7 @@ Redux, Node JS Technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SetRedEyes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Profile badge](https://www.codewars.com/users/SetRedEyes/badges/large)](https://www.codewars.com/users/SetRedEyes)
+<!-- [![Profile badge](https://www.codewars.com/users/SetRedEyes/badges/large)](https://www.codewars.com/users/SetRedEyes) -->
 ---
 
 ### :writing_hand: My portfolio :
