@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 I’m a Front-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who
-enjoys developing apps with React, 
+developing apps with React, 
 Redux, Node JS Technologies.
 
 - :telescope: My main goals are solving issues, sharing experience, and motivating the team to use the latest technologies stack to provide the highest code quality and develop the most stable system. 
