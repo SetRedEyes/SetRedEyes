@@ -58,5 +58,5 @@ Redux, Zustand, Python Technologies.
 
 ### :writing_hand: My portfolio :
 <!-- BLOG-POST-LIST:START -->
-https://setredeyes.github.io/Denis-Saberov-Portfolio
+https://setredeyes.github.io/Denis-Saberov
 <!-- BLOG-POST-LIST:END -->
